@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `松山のプロフ`,
+    title: `前半期　ラボ滝沢での成果発表`,
     author: {
       name: `Matsuyama`,
       summary: `マツのプロフ`,
@@ -8,7 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://fumi1103.github.io/song2blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `cuf1103`,
     },
   },
   plugins: [
