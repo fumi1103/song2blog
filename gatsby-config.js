@@ -7,9 +7,9 @@ module.exports = {
     },
     description: `松山の前半期　ラボ滝沢での成果発表`,
     siteUrl: `https://fumi1103.github.io/song2blog`,
-    social: {
-      twitter: `YahooNewsTopics`,
-    },
+    // social: {
+    //   twitter: `YahooNewsTopics`,
+    // },
   },
   plugins: [
     `gatsby-plugin-image`,
