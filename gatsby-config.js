@@ -3,12 +3,12 @@ module.exports = {
     title: `前半期　ラボ滝沢での成果発表`,
     author: {
       name: `Matsuyama`,
-      summary: `マツのプロフ`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `松山の前半期　ラボ滝沢での成果発表`,
     siteUrl: `https://fumi1103.github.io/song2blog`,
     social: {
-      twitter: `cuf1103`,
+      twitter: `YahooNewsTopics`,
     },
   },
   plugins: [
